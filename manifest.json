@@ -1,7 +1,7 @@
 {
   "name": "$WHACKD",
   "short_name": "$WHACKD",
-  "start_url": "/p/debate.html?utm_source=homescreen",
+  "start_url": "https://www.whackd.dev/p/debate.html?utm_source=homescreen",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#ffffff",
